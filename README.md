@@ -1,4 +1,4 @@
-# AtliQ-Sales-and-Financial-Report
+# AtliQ Sales and Financial Report
 This report provides a comprehensive analysis of sales and financial performance for AtliQ Hardware, a global supplier of computer hardware solutions. It delivers actionable insights to support strategic decision-making and drive business growth.
 
 **Analytical Initiative** : Led the creation of a comprehensive sales and financial analysis, delivering actionable insights that enhanced decision-making and drove strategic improvements.
